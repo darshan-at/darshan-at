@@ -1,5 +1,16 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Darshan 👨‍💻
+</h1>
 
+<p align='center'>  
+  <a href="https://www.linkedin.com/in/darshan-tripathi-b17426182/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=darshan-at.darshan-at"></a>
+ </p>
 <!--
 **darshan-at/darshan-at** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
